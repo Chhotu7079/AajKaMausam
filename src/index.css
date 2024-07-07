@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Varela Round", sans-serif;
+  scroll-behavior: smooth;
+  scroll-snap-type: mandatory;
+}
+::selection {
+  color: #ff64fa;
+}
