@@ -18,7 +18,7 @@ and also the temperature of future 4-5 days in the timezone of 12:00
 
 ```bash
   
-  cd weatherApp
+  cd AajKaMausam
   npm install
   npm run dev
 ```
@@ -39,10 +39,4 @@ used **openweathermap** api
 **Client:** React, TailwindCSS
 
 
-## Links
-Deploy Link: 
 
-
-
-# AajKaMausam
-# AajKaMausam-
